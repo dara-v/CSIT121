@@ -1,0 +1,22 @@
+body {color: #ffffff; 
+  background-color: #c6beff;
+  font-family:"Arial, Helvetica, sans-serif";}
+
+p {color: #6559d8;
+text-align: center;
+font-style: italic;}
+
+h1 {color: #9c32ff;
+text-transform: uppercase;
+text-align: center;}
+
+h2 {color: #ae20df;
+text-align: center;}
+
+ul {color: #ed6ec8;
+text-align: left;
+margin-left: 890px}
+
+ol {color: #cf4aa8;
+text-align: left;
+margin-left: 850px}
