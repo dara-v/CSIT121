@@ -1,0 +1,33 @@
+body {
+	background-color: gray;
+}
+
+h1 {
+	text-align: center;
+	font-style: italic;
+	color: pink;
+}
+
+div{
+	float: left;
+	margin: 8px;
+}
+.money {
+border: 10px ridge green;
+border-radius: 15px;
+}
+
+.iphone {
+border: 10px outset purple;
+border-radius: 15px;
+}
+
+.beach {
+border: 10px ridge blue;
+border-radius: 15px;
+}
+
+.pc {
+border: 10px outset hotpink;
+border-radius: 15px;
+}
